@@ -1,0 +1,47 @@
+[
+  {
+    "content": "Read current Dashboard.tsx structure",
+    "status": "completed",
+    "activeForm": "Reading Dashboard.tsx"
+  },
+  {
+    "content": "Create design brief for course management system",
+    "status": "completed",
+    "activeForm": "Creating design brief"
+  },
+  {
+    "content": "Update design system (index.css, tailwind.config.ts)",
+    "status": "completed",
+    "activeForm": "Updating design system"
+  },
+  {
+    "content": "Create pages directory and Dashboard component",
+    "status": "completed",
+    "activeForm": "Creating Dashboard"
+  },
+  {
+    "content": "Create LivingApps for all entities",
+    "status": "completed",
+    "activeForm": "Creating LivingApps"
+  },
+  {
+    "content": "Build UI components for all entities",
+    "status": "completed",
+    "activeForm": "Building UI components"
+  },
+  {
+    "content": "Wire up API and replace mock data",
+    "status": "completed",
+    "activeForm": "Wiring up API"
+  },
+  {
+    "content": "Run build to verify compilation",
+    "status": "completed",
+    "activeForm": "Running build"
+  },
+  {
+    "content": "Deploy to GitHub",
+    "status": "in_progress",
+    "activeForm": "Deploying to GitHub"
+  }
+]
